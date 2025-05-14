@@ -1,4 +1,5 @@
-![Banner](https://raw.githubusercontent.com/Alhilal2001/Alhilal2001/main/ChatGPT Image May 14, 2025, 11_44_48 PM.png)
+![Banner](./banner.png)
+
 
 # Hi there, I'm Nassir Alhilal 👋
 
