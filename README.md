@@ -3,23 +3,32 @@
 I'm a full-stack developer passionate about building real-world solutions using Django and React.  
 My latest project, DiaTrack AI, empowers people with diabetes through smart tracking and AI predictions.
 
-## Technologies
-- Frontend: React, HTML, CSS
-- Backend: Python, Django, PostgreSQL
-- Tools: Docker, Git, VS Code
+## 🧰 Tech Stack
 
-## Projects
-- **[DiaTrack AI](https://github.com/Alhilal2001/diabetes-management-backend)** - Diabetes management app backend with AI predictions
-- **[DiaTrack AI](https://github.com/Alhilal2001/diabetes-management-frontend)** - Diabetes management app frontend with AI predictions
-- **[Finch Collector](https://github.com/Alhilal2001/Finch-Collector)** - Django CRUD project with toys and feedings
-- 🏦 [Banking Application](https://github.com/Alhilal2001/Banking-Application)
-A console-based banking system built with Python and CSV, supporting deposits, withdrawals, transfers, overdraft protection, and transaction history.
+- **Languages:** Python, JavaScript, HTML/CSS, C#
+- **Frameworks:** Django, React
+- **Database:** PostgreSQL, SQLite
+- **Tools:** Git, GitHub, Docker, VS Code
 
-### 🖥️ [Mini Portfolio](https://github.com/Alhilal2001/mini-portfolio)
-A personal portfolio website showcasing my skills, projects, and background using HTML, CSS, and JavaScript.
+## 🚀 Projects
 
-### 🛠️ [Console App](https://github.com/Alhilal2001/ConsoleApp1)
-A basic .NET console application built for practicing core programming concepts in C#.
+### 💊 [DiaTrack AI – Backend](https://github.com/Alhilal2001/diabetes-management-backend)  
+Diabetes management backend built with Django REST Framework, featuring AI-powered glucose predictions and full CRUD APIs.
 
-## Let's Connect
+### 💊 [DiaTrack AI – Frontend](https://github.com/Alhilal2001/diabetes-management-frontend)  
+A React-based frontend for DiaTrack AI, providing users with an intuitive interface, data visualizations, and authentication.
+
+### 🐦 [Finch Collector](https://github.com/Alhilal2001/Finch-Collector)  
+A Django CRUD web app for managing virtual pet finches, their toys, and feeding schedules.
+
+### 🏦 [Banking Application](https://github.com/Alhilal2001/Banking-Application)  
+A console-based banking system in Python using CSV for data storage. Supports deposits, withdrawals, overdraft protection, and transaction history.
+
+### 🌐 [Mini Portfolio](https://github.com/Alhilal2001/mini-portfolio)  
+A responsive personal portfolio website built with HTML, CSS, and JavaScript to showcase projects and skills.
+
+### ⚙️ [Console App (.NET)](https://github.com/Alhilal2001/ConsoleApp1)  
+A simple C# console application built with .NET, used for practicing basic programming logic and operations.
+
+## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/nassir-alhilal-34136a213/) | [Email](https://mail.google.com/mail/u/0/#inbox)
