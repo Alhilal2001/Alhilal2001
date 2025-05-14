@@ -5,10 +5,13 @@ My latest project, DiaTrack AI, empowers people with diabetes through smart trac
 
 ## 🧰 Tech Stack
 
-- **Languages:** Python, JavaScript, HTML/CSS, C#
-- **Frameworks:** Django, React
-- **Database:** PostgreSQL, SQLite
-- **Tools:** Git, GitHub, Docker, VS Code
+**Languages:** Python, JavaScript, HTML, CSS, SQL, C#  
+**Frontend:** React.js, Tailwind CSS  
+**Backend:** Django, Django REST Framework  
+**Database:** PostgreSQL, SQLite  
+**Tools:** Git, GitHub, Docker, VS Code, Postman  
+**Other:** JWT Auth, RESTful APIs, Machine Learning Integration
+
 
 ## 🚀 Projects
 
