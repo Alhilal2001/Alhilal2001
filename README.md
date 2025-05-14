@@ -1,4 +1,5 @@
-![Banner](./banner.png)
+![Banner](https://raw.githubusercontent.com/Alhilal2001/Alhilal2001/main/banner.png)
+
 
 
 # Hi there, I'm Nassir Alhilal 👋
