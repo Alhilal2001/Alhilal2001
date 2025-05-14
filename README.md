@@ -1,8 +1,4 @@
 ![Banner](./banner.png.png)
-
-
-
-
 # Hi there, I'm Nassir Alhilal 👋
 
 I'm a full-stack developer passionate about building real-world solutions using Django and React.  
