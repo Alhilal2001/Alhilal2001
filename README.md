@@ -31,4 +31,5 @@ A responsive personal portfolio website built with HTML, CSS, and JavaScript to 
 A simple C# console application built with .NET, used for practicing basic programming logic and operations.
 
 ## 📫 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/nassir-alhilal-34136a213/)  - 📧 [Email](https://mail.google.com/mail/u/0/#inbox)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nassir-alhilal-34136a213/) |
+- 📧 [Email](https://mail.google.com/mail/u/0/#inbox)
