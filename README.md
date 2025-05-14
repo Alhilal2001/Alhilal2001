@@ -9,8 +9,8 @@ My latest project, DiaTrack AI, empowers people with diabetes through smart trac
 - Tools: Docker, Git, VS Code
 
 ## Projects
-- **[DiaTrack AI](https://github.com/username/diatrack-ai)** - Diabetes management app with AI predictions
-- **[Finch Collector](https://github.com/username/finch-collector)** - Django CRUD project with toys and feedings
+- **[DiaTrack AI](https://github.com/Alhilal2001/diatrack-ai)** - Diabetes management app with AI predictions
+- **[Finch Collector](https://github.com/Alhilal2001/Finch-Collector)** - Django CRUD project with toys and feedings
 
 ## Let's Connect
 [LinkedIn](www.linkedin.com/in/nassir-alhilal-34136a213) | [Email](mailto:nassiralhilal2001@gmail.com)
